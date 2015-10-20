@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>4EED7BCC-8CDE-425E-9D28-790CD26D1A17</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>FindDuplicate</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>260F5753F6F80FBA3286643BD74C78C0043FA965</key>
 		<string>https://github.com/yangboz/crispy-broccoli.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>C++/FindDuplicate/FindDuplicate.xcodeproj/project.xcworkspace</string>
+	<string>C++/FindDuplicate/FindDuplicate.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>260F5753F6F80FBA3286643BD74C78C0043FA965</key>
